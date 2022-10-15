@@ -1,0 +1,12 @@
+JWT_SECRET=somethingsecret
+MONGO_URI="mongodb+srv://flakakallaba:flaka12345@cluster0.hyen6ow.mongodb.net/?retryWrites=true&w=majority"
+PAYPAL_CLIENT_ID=AQnPrk7_Xru1TXobz8XSoTkjP-DY0Wo5kVSWwwKjqoQx5peTL4iOErP7USRGNZCwvUyw1IH2tXgUISfG
+# Firebase
+REACT_APP_API_KEY = "AIzaSyB_GyI7yt2d7bcl-96cILlnJjiUdvWHyiA"
+REACT_APP_AUTH_DOMAIN =  "e-commerce-c9a33.firebaseapp.com"
+REACT_APP_PROJECT_ID = "e-commerce-c9a33"
+REACT_APP_STORAGE_BUCKET = "e-commerce-c9a33.appspot.com"
+REACT_APP_MESSAGING_SENDER_ID = "117951352285"
+REACT_APP_APP_ID = "1:117951352285:web:619b0f70a334cf03763a34"
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID = "G-6GSLXVP7ZH"
+REACT_APP_MEASUREMENT_ID = "G-6GSLXVP7ZH"

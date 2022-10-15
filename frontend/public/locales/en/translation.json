@@ -1,0 +1,72 @@
+{
+  "freeShipping": {
+    "1": "Free Shipping This Week Order Over - $75"
+  },
+  "Currency": {
+    "1": "Currency"
+  },
+  "Language": {
+    "1": "Language"
+  },
+  "Profile": {
+    "1": "Profile"
+  },
+  "Users": {
+    "1": "Users"
+  },
+  "Products": {
+    "1": "Products"
+  },
+  "Orders": {
+    "1": "Orders"
+  },
+  "Logout": {
+    "1": "Logout"
+  },
+  "SignIn": {
+    "1": "Sign In"
+  },
+  "SignUp": {
+    "1": "Sign Up"
+  },
+
+  "Home": {
+    "1": "Home"
+  },
+  "Shop": {
+    "1": "Shop"
+  },
+  "AboutUs": {
+    "1": "About Us"
+  },
+  "ContactUs": {
+    "1": "Contact Us"
+  },
+  "SearchProducts": {
+    "1": "Search Products..."
+  },
+  "textBanner": {
+    "1": "* only today we offer free shopping."
+  },
+  "ShopNow": {
+    "1": "Shop Now"
+  },
+  "fashionTrens": {
+    "1": "Fashion Trends"
+  },
+  "Accessories": {
+    "1": "Accessories"
+  },
+  "bags": {
+    "1": "Bags & Purses"
+  },
+  "aboutUsTitle": {
+    "1": "About Us!"
+  },
+  "aboutUsContext": {
+    "1": "Amazon is the place to come if you are looking for fashion online. ",
+    "2": "Established in 2020 by famous college  UBT,our shop is based on her special selections for our special customers.",
+    "3": "Whether it’s for formals, parties, gym or just hanging out with friends, we sell trend fashion clothing with very affordable prices and deliver it directly to your doorstep. We have hundreds of outfits to choose from.",
+    "4": "It is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It has been referred to as one of the most influential economic and cultural forces in the world, and is one of the world's most valuable brands."
+  }
+}

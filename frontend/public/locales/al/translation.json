@@ -1,0 +1,71 @@
+{
+  "freeShipping": {
+    "1": "Zbritje ne produkte deri ne - 75%"
+  },
+  "Currency": {
+    "1": "Valuta"
+  },
+  "Language": {
+    "1": "Gjuha"
+  },
+  "Profile": {
+    "1": "Profili"
+  },
+  "Users": {
+    "1": "Perdoruesit"
+  },
+  "Products": {
+    "1": "Produktet"
+  },
+  "Orders": {
+    "1": "Porosit"
+  },
+  "Logout": {
+    "1": "C'kycu"
+  },
+  "SignIn": {
+    "1": "Logohu"
+  },
+  "SignUp": {
+    "1": "Regjistrohu"
+  },
+  "Home": {
+    "1": "Ballina"
+  },
+  "Shop": {
+    "1": "Blej"
+  },
+  "AboutUs": {
+    "1": "Rreth nesh"
+  },
+  "ContactUs": {
+    "1": "Kontakti"
+  },
+  "SearchProducts": {
+    "1": "Kerko produkte..."
+  },
+  "textBanner": {
+    "1": "* vetem sot vlen zbritja."
+  },
+  "ShopNow": {
+    "1": "Blej Tani"
+  },
+  "fashionTrens": {
+    "1": "Trendet"
+  },
+  "Accessories": {
+    "1": "Aksesoret"
+  },
+  "bags": {
+    "1": "Canta"
+  },
+  "aboutUsTitle": {
+    "1": "Rreth nesh!"
+  },
+  "aboutUsContext": {
+    "1": "Amazon është vendi për të ardhur nëse jeni duke kërkuar për modën në internet.",
+    "2": "I themeluar në vitin 2020 nga kolegji i njohur UBT, dyqani ynë bazohet në zgjedhjet e saj speciale për klientët tanë të veçantë.",
+    "3": "Qoftë për formale, festa, palestër apo thjesht për shoqërim, ne shesim veshje me çmime shumë të volitshme dhe i dërgojmë direkt në pragun tuaj. Ne kemi qindra veshje për të zgjedhur.",
+    "4": "Kjo është një kompani amerikane e teknologjisë shumëkombëshe që fokusohet në tregtinë elektronike, kompjuterin cloud, transmetimin dixhital dhe inteligjencën artificiale. Ajo është cilësuar si një nga forcat ekonomike dhe kulturore më me ndikim në botë dhe është një nga markat më të vlefshme në botë."
+  }
+}
